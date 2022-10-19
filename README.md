@@ -1,8 +1,8 @@
 ## Olá! Eu sou Andrei Rodrigues
 
 - 🔭 Hoje trabalho no suporte técnico em uma empresa de software
-- 🌱 Estudando Kotlin e Javascript
-- 📫 Contate-me no email: andrei.rodrigues1@outlook.com
+- 🌱 Estudando Kotlin
+- 📫 Contate-me no email: andrei.rodrigues.prof@gmail.com
 
 ##
 
