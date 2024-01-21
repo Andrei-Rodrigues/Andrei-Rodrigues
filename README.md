@@ -1,7 +1,7 @@
 ## Olá! Eu sou Andrei Rodrigues
 
 - 🔭 Hoje trabalho no suporte técnico em uma empresa de software
-- 🌱 Estudando VueJS 3
+- 🌱 Estudando Angular com PrimeNG
 - 📫 Contate-me no email: andrei.rodrigues.prof@gmail.com
 
 ##
